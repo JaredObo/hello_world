@@ -1,2 +1,5 @@
 # hello_world
-Just another repository 
+
+Hi Humans!
+
+Jared here making edits to the README
